@@ -1,7 +1,7 @@
 # Twitter_bot
 A bot that sends news updates from popular stock trading creators
 
-#Explanation
+# Explanation
 
 1. fetch_tweets.py:
 
